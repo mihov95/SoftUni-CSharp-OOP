@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rhombus Of Stars", "01. Rhombus Of Stars\01. Rhombus Of Stars.csproj", "{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Point In Rectangle", "02. Point In Rectangle\02. Point In Rectangle.csproj", "{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {279EAB53-3F07-489B-B255-1607F2B7BC76}
+	EndGlobalSection
+EndGlobal
