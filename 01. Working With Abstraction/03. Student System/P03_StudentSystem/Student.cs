@@ -1,8 +1,6 @@
 ﻿namespace P03_StudentSystem
 {
-    using System;
-    using System.Collections.Generic;
-    
+   
     public class Student
     {
         public double Grade { get; set; }
