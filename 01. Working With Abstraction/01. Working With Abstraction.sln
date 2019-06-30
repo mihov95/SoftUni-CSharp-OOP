@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rhombus Of Stars", "01. Rhombus Of Stars\01. Rhombus Of Stars.csproj", "{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Rhombus Of Stars", "01. Rhombus Of Stars\01. Rhombus Of Stars.csproj", "{28DF1D13-B0D3-4D11-A7A6-7FEAB02513CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Point In Rectangle", "02. Point In Rectangle\02. Point In Rectangle.csproj", "{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Point In Rectangle", "02. Point In Rectangle\02. Point In Rectangle.csproj", "{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
