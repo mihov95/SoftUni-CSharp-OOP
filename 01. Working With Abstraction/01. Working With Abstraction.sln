@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Rhombus Of Stars", "01.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Point In Rectangle", "02. Point In Rectangle\02. Point In Rectangle.csproj", "{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hotel Reservation", "04. Hotel Reservation\04. Hotel Reservation.csproj", "{CD108CE0-B62E-40D8-B7D8-18756CD85286}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D18BBDF-6A12-4D64-8FD5-4AF974C717CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD108CE0-B62E-40D8-B7D8-18756CD85286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD108CE0-B62E-40D8-B7D8-18756CD85286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD108CE0-B62E-40D8-B7D8-18756CD85286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD108CE0-B62E-40D8-B7D8-18756CD85286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
