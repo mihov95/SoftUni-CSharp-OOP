@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sort Persons by Name and Age", "1. Sort Persons by Name and Age\1. Sort Persons by Name and Age.csproj", "{B9AACF3D-C164-4DD2-81A4-3D44E18654CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonsInfo", "PersonsInfo\PersonsInfo.csproj", "{0E70F888-52C8-4114-9367-E05F3756A025}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B9AACF3D-C164-4DD2-81A4-3D44E18654CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9AACF3D-C164-4DD2-81A4-3D44E18654CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9AACF3D-C164-4DD2-81A4-3D44E18654CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9AACF3D-C164-4DD2-81A4-3D44E18654CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E70F888-52C8-4114-9367-E05F3756A025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E70F888-52C8-4114-9367-E05F3756A025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E70F888-52C8-4114-9367-E05F3756A025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E70F888-52C8-4114-9367-E05F3756A025}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
